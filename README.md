@@ -1,6 +1,14 @@
-# Getting Started with Create React App
+# About
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project gives you all morning information like weather and domestic news.
+
+>Skills:
+> >-HTML,\
+    -CSS/SASS,\
+    -Rest api,\
+    -TypeScript,
+
+:white_check_mark: Deploy: .... 
 
 ## Available Scripts
 
