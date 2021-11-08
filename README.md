@@ -10,6 +10,11 @@ This project gives you all morning information like weather and domestic news.
 
 :white_check_mark: Deploy: .... 
 
+## Tasks.
+- [ ] Create layout.
+    -[ ] Header layout.
+
+
 ## Available Scripts
 
 In the project directory, you can run:
