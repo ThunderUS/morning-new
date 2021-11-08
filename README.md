@@ -2,8 +2,8 @@
 
 This project gives you all morning information like weather and domestic news.
 
->Skills:
-> >-HTML,\
+Skills:
+ >-HTML,\
     -CSS/SASS,\
     -Rest api,\
     -TypeScript,
